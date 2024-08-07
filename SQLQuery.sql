@@ -4,6 +4,7 @@
 SELECT   *
 FROM [myDB].[dbo].[Real_Estate]
 -- Dataset form from 997,217 rows and 11 columns 
+    
 
 
 -- To Get Number of rows 
